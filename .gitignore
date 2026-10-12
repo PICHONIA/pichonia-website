@@ -26,3 +26,7 @@ pnpm-debug.log*
 
 # wrangler local state/logs
 .wrangler/
+dist/
+.DS_Store
+dist/
+.DS_Store

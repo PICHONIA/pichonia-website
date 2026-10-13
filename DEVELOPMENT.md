@@ -71,3 +71,9 @@ npm run preview
 * **Technical Asset Inventory:**
   1. **Predictive AI System for Options Trading:** Proprietary algorithms, trained models, datasets.
   2. **Pichonia Logistics App:** Source code, UI designs, databases, documentation.
+
+---
+
+## 🚀 CACHE INVALIDATION & SEO PROTOCOL
+- **Favicon Cache Busting:** All favicons and apple-touch-icons include version parameters (`?v=2`) in `src/layouts/Layout.astro` to bypass aggressive browser caching.
+- **Social Previews (Open Graph / Twitter):** Configured in `<head>` to explicitly point to `https://pichonia.com/brand/pichonia_source.png` with `summary_large_image` cards.

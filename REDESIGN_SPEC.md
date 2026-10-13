@@ -10,3 +10,18 @@ Transform `pichonia.com` from a standard starter template into an elite, intelli
   * *Derbest Options Trading AI (Predictive models & automated execution)*
 * **Build-In-Public Engineering Log:** A dedicated `/blog` or `/engineering` route powered by markdown files, automatically publishing our infrastructure post-mortems and CI/CD case studies.
 * **Refined Typography & Dark-Mode Aesthetics:** Clean, high-contrast typography, subtle grid borders, and technical UI elements that signal elite software engineering.
+
+---
+
+## 3. Brand Asset Manifest & Production Paths (Locked & Deployed)
+All master visual assets are centralized in `/public/brand/` and `/public/`:
+
+| Asset Name | Repository Path | Dimensions / Format | Status |
+| :--- | :--- | :--- | :--- |
+| **Traced Vector Monogram** | `/public/brand/pichonia_traced.svg` | Scalable Vector Graphic | **Deployed** (Master reference) |
+| **Header Brand Mark** | `/public/brand/pichonia_mark.svg` | Scalable Vector Graphic | **Deployed** (Active in `Layout.astro`) |
+| **Master Dark/Cyan Lockup**| `/public/brand/pichonia-lockup-dark-cyan.svg`| Scalable Vector Graphic | **Deployed** |
+| **Source Raster Asset** | `/public/brand/pichonia_source.png` | High-Resolution PNG | **Deployed** |
+| **LinkedIn Cover Banner** | `/public/brand/pichonia_linkedin_banner.png` | 1128 × 191 PNG | **Deployed** |
+| **Browser Favicon** | `/public/favicon.svg?v=2` | SVG (Cache-busted) | **Deployed** |
+| **Apple Touch Icon** | `/public/apple-touch-icon.png?v=2` | 180 × 180 PNG | **Deployed** |

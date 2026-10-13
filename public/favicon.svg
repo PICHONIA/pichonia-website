@@ -7,8 +7,30 @@
    width="804"
    height="776"
    viewBox="0 0 804 776"
+   sodipodi:docname="pichonia_mark.svg"
+   inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.57089206"
+     inkscape:cx="502.72201"
+     inkscape:cy="414.26395"
+     inkscape:window-width="1088"
+     inkscape:window-height="760"
+     inkscape:window-x="0"
+     inkscape:window-y="31"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1" />
   <defs
      id="defs1">
     <clipPath
@@ -144,4 +166,16 @@
          transform="matrix(0.96614582,0,0,0.96614582,703.72232,219.46261)" />
     </g>
   </g>
+  <text
+     xml:space="preserve"
+     style="text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:29.7446;display:inline;fill:#000000"
+     x="700.02875"
+     y="208.21368"
+     id="text1"
+     transform="matrix(3.3652415,0,0,2.656817,-1667.4606,-327.72051)"><tspan
+       x="700.02875"
+       y="208.21368"
+       id="tspan3"><tspan
+         style="font-weight:900;font-size:12px;font-family:Superclarendon;-inkscape-font-specification:'Superclarendon, Heavy';fill:#0000ff"
+         id="tspan2">AI</tspan></tspan></text>
 </svg>
